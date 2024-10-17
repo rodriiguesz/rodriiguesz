@@ -1,16 +1,15 @@
 ## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
+- Meu nome e Gabriel Rodrigues
+- Eu estudo na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-<!--
-**rodriiguesz/rodriiguesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Você pode entrar em contato comigo :mailbox
 
-Here are some ideas to get you started:
+00001105884387sp@al.educacao.sp.gov.br 
+@_rodriiiguesz_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(https://tenor.com/pt-BR/view/dizeno0010sticker-gif-9079681464783567921)
+
+
